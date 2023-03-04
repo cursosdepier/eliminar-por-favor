@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+<title> Mi Primera Web</title>
+</head>
+<body>
+	<h1>Titulo de mi Web</h1>
+	<h2>Bienvenidos a Mi Web</h2>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a blandit nulla. In hac habitasse platea dictumst. Morbi id dapibus ligula. Quisque sed ullamcorper justo. Cras in elit neque. Praesent feugiat lectus et purus sollicitudin mattis. Nunc aliquet tellus ante, ultricies pulvinar nisi ultricies in.</br><br/> Phasellus ut purus eget enim pharetra vulputate eu vel eros. Mauris non orci erat. Mauris vulputate rutrum laoreet. Etiam non libero dignissim, dignissim lectus id, lobortis massa. Proin facilisis sagittis dui, commodo bibendum tortor placerat vel. Nunc vehicula metus id cursus blandit. 
+	</p>
+	<p>
+		Nulla nec arcu posuere, porttitor orci vel, pellentesque tellus. Ut aliquam nisi est, vel elementum enim sollicitudin eget. Pellentesque vel ipsum eu tortor suscipit bibendum. Quisque id tincidunt elit, facilisis vestibulum enim. Mauris tristique semper erat. Vestibulum ut ullamcorper justo, ut fringilla libero. Aliquam venenatis velit vitae arcu mattis, eu tempor lectus rutrum. Nam mollis laoreet ipsum euismod ultrices. Morbi nisl nulla, molestie nec posuere quis, ultricies quis orci. Nullam sed finibus dolor, vel porttitor libero. 
+	</p>
+	<p>
+		Vestibulum ut quam metus. Cras quis fermentum justo, nec dapibus augue. Nam posuere arcu vel elementum tincidunt. Ut vitae imperdiet lacus. Nam faucibus nulla risus, id blandit justo ultricies ut. Quisque risus felis, accumsan ut erat et, fringilla faucibus urna. Proin placerat purus nec finibus molestie. Cras ac nunc eget magna porttitor tincidunt. Cras non tempus sem, dapibus ullamcorper dui. Maecenas id ultricies eros, mollis mattis ligula.
+	</p>
+
+	<hr/>
+<hr3>Tercer encabezado de la pagina <hr3/>
+	<p>
+		Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Pellentesque a blandit nulla. In hac habitasse platea dictumst. Morbi id dapibus ligula. <em>Quisque sed ullamcorper justo</em>. Cras in elit neque. Praesent feugiat lectus et purus sollicitudin mattis. Nunc <span id="resaltado" class="rojo amarillo">aliquet tellus ante, ultricies</span> pulvinar nisi ultricies in.Phasellus ut purus eget enim pharetra vulputate eu vel eros. Mauris non orci erat. Mauris vulputate rutrum laoreet. Etiam non libero dignissim, dignissim lectus id, lobortis massa. Proin facilisis sagittis dui, <in>commodo bibendum tortor placerat vel</in>. Nunc vehicula metus id cursus blandit.
+		<blockquote>
+		in.Phasellus ut purus eget enim pharetra vulputate eu vel eros. Mauris non orci erat. Mauris vulputate rutrum laoreet. Etiam non libero dignissim, dignissim lectus id, lobortis massa. Proin facilisis sagittis dui, <in>commodo bibendum tortor placerat vel</in>. Nunc vehicula metus id cursus blandit.
+		</blockquote>
+		</p>
+		<h3>Listado de frutas</h3>
+		<ol>
+			<li>Manzana</li>
+			<li>Naranja</li>
+			<li>Pera</li>
+			<li>Sandia</li>
+		</ol>
+		<p>
+			<h3>Lista desordenadas de frutas</h3>
+			<ul>
+			<li>Manzana
+				<ul>
+					<li>Roja</li>
+					<li>Verde</li>
+				</ul>
+
+			</li>
+			
+			<li>Naranja</li>
+			<li>Pera</li>
+			<li>Sandia</li>
+		</ul>
+		</p>
+
+</body>
